@@ -186,8 +186,6 @@ marimo/_lsp/
 __marimo__/
 
 # Project
-data/
-logs/
+/data/
+/logs/
 cred.py
-data/.minio.sys/buckets/.bloomcycle.bin/xl.meta
-data/.minio.sys/buckets/.usage.json/xl.meta

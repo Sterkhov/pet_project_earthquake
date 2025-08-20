@@ -186,6 +186,10 @@ marimo/_lsp/
 __marimo__/
 
 # Project
-/data/
-/logs/
+/data/*
+/logs/*
 cred.py
+data/.minio.sys/buckets/.bloomcycle.bin/xl.meta
+data/.minio.sys/buckets/.usage.json/xl.meta
+data/.minio.sys/tmp/4c43b61e-9158-4e9e-9729-643d2dfaddbc
+logs/scheduler/latest
